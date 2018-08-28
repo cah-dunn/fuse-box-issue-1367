@@ -1,0 +1,27 @@
+{
+  "name": "fuse-box-issue-1367",
+  "version": "1.0.0",
+  "description": "reproduce issue described in fuse-box issue 1367",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node ./fuse.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cah-dunn/fuse-box-issue-1367.git"
+  },
+  "author": "Kyle Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cah-dunn/fuse-box-issue-1367/issues"
+  },
+  "homepage": "https://github.com/cah-dunn/fuse-box-issue-1367#readme",
+  "dependencies": {
+    "cross-fetch": "^2.2.2"
+  },
+  "devDependencies": {
+    "fuse-box": "^3.4.0",
+    "typescript": "^3.0.1"
+  }
+}
