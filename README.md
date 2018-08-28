@@ -1,0 +1,1 @@
+# fuse-box-issue-1367
