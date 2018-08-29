@@ -4,9 +4,6 @@ const fuse = FuseBox.init({
     homeDir: "src",
     target: "browser@es5",
     output: "dist/$name.js",
-    shim: {
-        'cross-fetch/polyfill': true
-    },
     plugins: [
         QuantumPlugin({
             target: 'browser',
