@@ -21,7 +21,7 @@
     "cross-fetch": "^2.2.2"
   },
   "devDependencies": {
-    "fuse-box": "^3.4.0",
-    "typescript": "^3.0.1"
+    "fuse-box": "^3.5.0",
+    "typescript": "^3.1.3"
   }
 }
